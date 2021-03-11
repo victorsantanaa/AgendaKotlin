@@ -48,4 +48,4 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 - [Android Studio: Para desenvolvimento do projeto](https://developer.android.com/studio)
 
 ### Criado por Victor Santana.
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/)](https://www.linkedin.com/in/visanri/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/visanri/"/)](https://www.linkedin.com/in/visanri/)
