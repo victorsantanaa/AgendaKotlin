@@ -4,10 +4,18 @@
  As funcionalidade são de:
 
 - Adicionar um contato a lista;
+
+
 ![](ezgif.com-gif-maker.gif)
+
+
 - Remover um contato da lista;
 - Editar um contato da lista.
+
+
 ![](ezgif.com-gif-maker.gif(1))
+
+
 
 O aplicativo originalmente é desenvolvido nos três cursos de Fundamentos Android,
 que fazem parte da [Formação Android na Alura](https://cursos.alura.com.br/formacao-android).
