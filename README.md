@@ -13,7 +13,7 @@
 - Editar um contato da lista.
 
 
-![](ezgif.com-gif-maker (1).gif)
+![](gif2.gif)
 
 
 
