@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda Kotlin</string>
+    <string name="novo_aluno_botao">Botão Novo Aluno</string>
+    <string name="remover">Remover</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="salvar">Salvar</string>
+</resources>
